@@ -1,0 +1,4 @@
+coursera-scala
+==============
+
+Understanding Odersky
